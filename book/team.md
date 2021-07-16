@@ -229,3 +229,41 @@ The people on this page have helped organize the hackweek. You'll find a few spe
 
 *Ask me about:* Time-lapse cameras, Python, Hydrologic Modeling
 ---
+
+**Clare Webster**
+^^^
+<img src="https://avatars.githubusercontent.com/u/57391070?v=4" alt="picture of Clare Webster" width="200" height="200">
++++
+*Affiliations:* WSL Institute for Snow and Avalanche Research SLF Switzerland
+
+*Ask me about:* Lidar, forest structure, radiative transfer modelling, Julia
+---
+
+**Brendan McAndrew**
+^^^
+<img src="https://github.com/bmcandr/bmcandr.github.io/raw/master/images/brendan_mcandrew_alt.jpg" alt="picture of Brendan McAndrew" height="200">
++++
+*Affiliations:* Science Systems and Applications Inc. at NASA's Goddard Space Flight Center
+
+*Ask me about:* NASA's Land Information System, Python, Git
+---
+
+**Carrie Vuyovich**
+^^^
+<img src="https://avatars.githubusercontent.com/u/45520683?v=4" alt="picture of Carrie Vuyovich" width="200" height="200">
++++
+*Affiliations:* NASA Goddard Space Flight Center
+
+*Ask me about:* SnowEx, NASA THP snow program
+---
+
+**Jessica Scheick**
+^^^
+<img src="https://avatars.githubusercontent.com/u/11756442?v=4" alt="picture of Jessica Scheick" width="200" height="200">
++++
+*Affiliations:* University of New Hampshire
+
+*Ask me about:* open science, Python, git, GitHub, glaciers, ICESat-2/icepyx
+---
+
+````
