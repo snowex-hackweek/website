@@ -73,7 +73,7 @@ During the field campaign at Grand Mesa, we wanted to capture the spatial variab
 
 In the figure below, the field campaign map (left) showing snow pit locations and flight-line paths is annotated with two snow surface temperature timeseries measurements sites, the *Mesa West* meteorlogical station, and *Snow Pit 2S10*. We will use data from snow pit 2S10 for this tutorial.
 
-The UW-APL thermal IR imager (center) was flown over Grand Mesa several times over the course of the field campaign. We will use a single flight-line mosaic image in this tutorial.
+The UW-APL thermal IR imager (center) was flown over Grand Mesa several times over the course of the field campaign. We will use a single flight-line mosaic image in this tutorial. (Thank you to Chris Chickadel at the UW APL for this data collection!)
 
 The aircraft flight times were planned to be coincident with remote sensing satellites passing overhead. We will use a single ASTER thermal infrared image (right) in this tutorial that was taken at the same time as our example airborne IR mosaic.
 
